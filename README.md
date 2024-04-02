@@ -8,6 +8,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanghasemiarani&repo=imanghasemiarani.github.io&theme=catppuccin_latte" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanghasemiarani&repo=imanghasemiarani.github.io&theme=ambient_gradient" />
-</a>
+</a> -->
