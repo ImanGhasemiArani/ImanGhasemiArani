@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanghasemiarani&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanghasemiarani&layout=compact&theme=radical)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imanghasemiarani&repo= imanghasemiarani.github.io )
 
 <!--
 
