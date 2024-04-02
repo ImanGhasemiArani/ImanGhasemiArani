@@ -1,5 +1,5 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imanghasemiarani&show_icons=true&theme=aura" />
-<img height=200 align="center" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=imanghasemiarani&layout=compact&theme=radical&langs_count=6" />
+<img height=200 align="center" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=imanghasemiarani&layout=compact&theme=radical" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanghasemiarani&repo=imanghasemiarani.github.io&theme=catppuccin_latte" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanghasemiarani&repo=imanghasemiarani.github.io&theme=ambient_gradient" /> -->
